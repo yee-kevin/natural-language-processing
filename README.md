@@ -1,6 +1,6 @@
 # About
 SUTD 50.040 Natural Language Processing Course Homework and Projects taught by Professor Lu Wei.
-For more information, refer to https://istd.sutd.edu.sg/undergraduate/courses/50040-natural-language-processing
+For more information, refer to https://istd.sutd.edu.sg/undergraduate/courses/50040-natural-language-processing.
 
 ## Recommended Textbooks
 Relevant suggested chapters:
