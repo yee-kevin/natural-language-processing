@@ -2,7 +2,7 @@
 SUTD 50.040 Natural Language Processing Course Homework and Projects taught by Professor Lu Wei.
 
 ## Recommended Textbooks
-Suggested relevant chapters to read from:
+Relevant suggested chapters:
 1. Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999
 2. Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft), 2018
 3. Yoav Goldberg, Neural Network Methods for Natural Language Processing, 2017
