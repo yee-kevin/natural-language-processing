@@ -11,7 +11,7 @@ Word embeddings are dense vectors that represent words, and capable of capturing
 Constituency parsing aims to extract a constituency-based parse tree from a sentence that represents its syntactic structure according to a phrase structure grammar. This homework implements a constituency parser based on probabilistic context-free grammars (PCFGs) and evaluate its performance.
 
 ### Recommended Textbooks
-Relevant suggested chapters:
+Suggested chapters:
 1. Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999
 2. Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft), 2018
 3. Yoav Goldberg, Neural Network Methods for Natural Language Processing, 2017
