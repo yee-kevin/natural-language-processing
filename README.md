@@ -5,6 +5,7 @@ For more information, refer to https://istd.sutd.edu.sg/undergraduate/courses/50
 ## Material
 ### Homework
 #### Homework 1
+Word embeddings are dense vectors that represent words, and capable of capturing semantic and syntactic similarity, relations with other words, etc. This homework uses two methods to learn word embeddings: Count-based (Co-occurrence matrices) and Prediction-based (Word2Vec - CBOW and Skip-gram model). The dataset used is "text8" that consists of one single line of text.
 
 
 ## Recommended Textbooks
