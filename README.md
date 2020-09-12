@@ -4,10 +4,10 @@ For more information, refer to https://istd.sutd.edu.sg/undergraduate/courses/50
 
 ## Material
 ### Homework
-#### 1. Homework 1
+#### 1. Homework 1 - Word Embeddings (Co-occurence matrices/Word2Vec)
 Word embeddings are dense vectors that represent words, and capable of capturing semantic and syntactic similarity, relations with other words, etc. This homework uses two methods to learn word embeddings: Count-based (Co-occurrence matrices) and Prediction-based (Word2Vec - CBOW and Skip-gram model). The dataset used is "text8" that consists of one single line of text.
 
-#### 2. Homework 2
+#### 2. Homework 2 - CKY parsing algorithm for probabilistic context-free grammars (PCFG)
 Constituency parsing aims to extract a constituency-based parse tree from a sentence that represents its syntactic structure according to a phrase structure grammar. This homework implements a constituency parser based on probabilistic context-free grammars (PCFGs) and evaluate its performance. The dataset used is a version of the “Penn Treebank” released in the NLTK corpora.
 
 ### Recommended Textbooks
