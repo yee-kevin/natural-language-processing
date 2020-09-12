@@ -8,7 +8,7 @@ For more information, refer to https://istd.sutd.edu.sg/undergraduate/courses/50
 Word embeddings are dense vectors that represent words, and capable of capturing semantic and syntactic similarity, relations with other words, etc. This homework uses two methods to learn word embeddings: Count-based (Co-occurrence matrices) and Prediction-based (Word2Vec - CBOW and Skip-gram model). The dataset used is "text8" that consists of one single line of text.
 
 #### 2. Homework 2
-Constituency parsing aims to extract a constituency-based parse tree from a sentence that represents its syntactic structure according to a phrase structure grammar. This homework implements a constituency parser based on probabilistic context-free grammars (PCFGs) and evaluate its performance.
+Constituency parsing aims to extract a constituency-based parse tree from a sentence that represents its syntactic structure according to a phrase structure grammar. This homework implements a constituency parser based on probabilistic context-free grammars (PCFGs) and evaluate its performance. The dataset used is a version of the “Penn Treebank” released in the NLTK corpora.
 
 ### Recommended Textbooks
 Suggested chapters:
