@@ -16,6 +16,8 @@ Constituency parsing aims to extract a constituency-based parse tree from a sent
 Part 1: IBM Model 1 using hard and soft expectation-maximization (EM) algorithm.  
 Part 2: Seq2Seq Attention Model using a Bidirectional-LSTM Encoder and a Unidirectional-LSTM Decoder.
 
+#### 5. HW5 [Written] - Phrase-based Machine Translation, Synchronous CFG, Word Alignment Model, Attention
+
 ### Recommended Textbooks
 1. Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999
 2. Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft), 2018
